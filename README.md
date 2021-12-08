@@ -1,9 +1,9 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=kangilwon&fontSize=90)
 
-<!--
-**kangilwon/Kangilwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:muscle:  
 
-Here are some ideas to get you started:
+[![python](https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=black)](https://github.com/kangilwon/Beakjoon-Team-Notes)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -14,4 +14,4 @@ Portfolio : ILWON KANG | 다형성 개발자</a>
 <br><br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kangilwon&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangilwon&langs_count=8)](https://github.com/Kangilwon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangilwon&langs_count=10)](https://github.com/Kangilwon/github-readme-stats)

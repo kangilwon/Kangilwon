@@ -12,4 +12,6 @@ Portfolio : ILWON KANG | 다형성 개발자</a>
 <br><br><br>
 ---
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangilwon&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Kangilwon&show_icons=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangilwon&layout=compact)](https://github.com/Kangilwon/github-readme-stats)

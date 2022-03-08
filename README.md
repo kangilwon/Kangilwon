@@ -8,7 +8,7 @@
 <br><br>
  [![notion](https://img.shields.io/badge/notion-181717?style=flat-square&logo=notion&logoColor=white)](https://github.com/kangilwon/yoplleProject)
 <a href="https://rough-eggnog-34e.notion.site/ILWON-KANG-eb579faec392425697af2993748e6bf2"><br>
-Portfolio : ILWON KANG | 다형성 개발자</a>
+Portfolio : ILWON KANG </a>
 <br><br><br>
 ---
 <br><br>

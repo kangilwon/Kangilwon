@@ -7,7 +7,7 @@
 ---
 <br><br>
  [![notion](https://img.shields.io/badge/notion-181717?style=flat-square&logo=notion&logoColor=white)](https://github.com/kangilwon/yoplleProject)
-<a href="https://www.notion.so/PORTFOLIO-eb579faec392425697af2993748e6bf2"><br>
+<a href="https://rough-eggnog-34e.notion.site/PORTFOLIO-eb579faec392425697af2993748e6bf2"><br>
 Portfolio : ILWON KANG </a>
 <br><br><br>
 ---
